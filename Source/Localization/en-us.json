@@ -1,0 +1,6 @@
+{
+  "help": "Usage:\n  -h, --help        Show this help message\n  -v, --version     Show version info\n  -l, --lang CODE   Set language (en-us, ru-ru)",
+  "version": "Git-Ai-Reviewer version 1.0.0",
+  "loading_localization": "Localization loaded for {lang}",
+  "using_default_messages": "Using default messages"
+}
